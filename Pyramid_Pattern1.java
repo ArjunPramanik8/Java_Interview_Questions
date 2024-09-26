@@ -1,5 +1,4 @@
 package Question_Solutions;
-
 import java.util.Scanner;
 
 public class Pyramid_Pattern1
