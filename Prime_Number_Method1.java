@@ -28,6 +28,5 @@ public class Prime_Number_Method1
 
         }
 
-
     }
 }
