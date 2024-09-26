@@ -15,5 +15,6 @@ public class Remove_whitespaces_from_string_method1
 
         System.out.println("Input String = "+str);
         System.out.println("Output String = "+strwithoutspace);
+        
     }
 }
