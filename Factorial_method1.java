@@ -17,5 +17,4 @@ public class Factorial_method1
         System.out.println("Factorial of "+ n+" = "+f);
     }
 
-
 }
