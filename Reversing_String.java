@@ -13,7 +13,6 @@ public class Reversing_String
         {
             rev = rev+ str.charAt(i);
         }
-
         System.out.println("The Reversed String of "+str+" is "+rev);
     }
 }
