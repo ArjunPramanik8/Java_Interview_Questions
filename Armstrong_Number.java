@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 import static Question_Solutions.Armstrong_Number.isArmstrong;
 
+
 public class Armstrong_Number
 {
     public static boolean isArmstrong(int n)
