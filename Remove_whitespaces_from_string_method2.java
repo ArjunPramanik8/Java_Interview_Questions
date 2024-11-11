@@ -3,6 +3,7 @@ package Question_Solutions;
 import java.util.Scanner;
 import java.lang.String;
 public class Remove_whitespaces_from_string_method2
+
 {
     public static void main(String[] args) {
 
