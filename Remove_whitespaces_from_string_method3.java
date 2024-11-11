@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Remove_whitespaces_from_string_method3 {
 
+    
     public static void main(String[] args)
     {
 
