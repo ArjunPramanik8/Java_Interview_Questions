@@ -5,7 +5,8 @@ import java.lang.String;
 public class Remove_whitespaces_from_string_method2
 
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
 
         //Receive the string to be processed
         Scanner sc = new Scanner(System.in);
