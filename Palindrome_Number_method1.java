@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Palindrome_Number_method1
 {
     public static void main(String[] args) {
-
+        
         int r;
         int sum=0;
         int temp= 0;
