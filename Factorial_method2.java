@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Factorial_Method2
 {
+    
     public static int findFactorial(int n)
     {
         int f=1;
