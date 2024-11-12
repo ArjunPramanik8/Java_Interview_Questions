@@ -1,5 +1,4 @@
 package Question_Solutions;
-
 import java.util.Scanner;
 
 import static Question_Solutions.Armstrong_Number.isArmstrong;
