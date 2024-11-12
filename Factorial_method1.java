@@ -9,6 +9,7 @@ public class Factorial_method1
         System.out.println("Please enter the number");
         int n = sc.nextInt();
 
+        
         int f=1;
         for (int i = 1; i <= n ; i++)
         {
