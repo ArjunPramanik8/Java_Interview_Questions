@@ -1,5 +1,4 @@
 package Question_Solutions;
-
 import java.util.Scanner;
 
 public class Remove_whitespaces_from_string_method1
