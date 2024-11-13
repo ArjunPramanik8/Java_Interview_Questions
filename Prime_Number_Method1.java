@@ -12,7 +12,8 @@ public class Prime_Number_Method1
             System.out.println(n+" is Non Prime Number");
 
         }
-        else{
+        else
+        {
             for (int i = 2; i < n-1; i++) {
 
                 if (n % i == 0) {
