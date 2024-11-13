@@ -5,7 +5,7 @@ public class Prime_Number_Method1
         // Below is the number to be checked
         int n=17;
         int c=0;
-
+        
         //checkingif the number is Prime or not
         if (n==0|| n==1)
         {
