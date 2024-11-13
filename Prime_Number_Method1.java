@@ -20,7 +20,8 @@ public class Prime_Number_Method1
                     c++;
                 }
             }
-            if (c > 0) {
+            if (c > 0) 
+            {
                 System.out.println(n + " is Non Prime Number");
             } else {
                 {
