@@ -16,7 +16,6 @@ public class Remove_whitespaces_from_string_method2
 
         String strwithoutspace="";
 
-
         for (int i = 0; i < charArray.length; i++)
         {
             if(charArray[i]!=' ' && charArray[i]!= '\t')
