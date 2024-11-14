@@ -16,6 +16,7 @@ public class Remove_whitespaces_from_string_method3
         String [] strnew= str.split(" ");
         String newstr= " ";
 
+
         for (int i = 0; i <strnew.length ; i++)
         {
             newstr = newstr + strnew[i];
