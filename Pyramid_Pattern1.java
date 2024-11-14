@@ -17,7 +17,6 @@ public class Pyramid_Pattern1
 
         for (int i = Noofrow; i >0 ; i--)
         {
-
             //For printing the space before
             for (int j = 1; j <=i; j++)
             {
