@@ -5,7 +5,6 @@ public class Remove_whitespaces_from_string_method1
 {
     public static void main(String[] args) 
     {
-
         Scanner sc = new Scanner(System.in);
         //Please enter the string
         System.out.println("Please enter the string");
