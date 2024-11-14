@@ -24,6 +24,7 @@ public class Pyramid_Pattern1
 
             }
 
+
             for (int j = 1; j <=rowcount; j++)
             {
                 System.out.print(rowcount+" ");
