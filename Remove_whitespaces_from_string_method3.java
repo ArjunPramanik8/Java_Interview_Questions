@@ -22,6 +22,7 @@ public class Remove_whitespaces_from_string_method3
             newstr = newstr + strnew[i];
         }
 
+
         System.out.println("Input String ="+ strnew);
         System.out.println("Output String ="+ newstr);
     }
