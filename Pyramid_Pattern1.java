@@ -14,6 +14,7 @@ public class Pyramid_Pattern1
         int rowcount = 1;
         //Implementing the pyramid logic
 
+
         for (int i = Noofrow; i >0 ; i--)
         {
 
