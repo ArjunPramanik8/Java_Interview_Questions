@@ -41,7 +41,6 @@ public class Armstrong_Number
 
     public static void main(String[] args) {
 
-
         Scanner sc= new Scanner(System.in);
         System.out.println("Please enter the number to be checked");
         int n = sc.nextInt();
