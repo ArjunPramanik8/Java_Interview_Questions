@@ -12,7 +12,6 @@ public class Palindrome_Number_method1
         Scanner sc= new Scanner(System.in);
         int n = sc.nextInt();
 
-
         //Reversing the number
         temp=n;
         while(n>0)
