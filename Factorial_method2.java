@@ -21,6 +21,5 @@ public class Factorial_Method2
 
         int factorial= findFactorial(n);
         System.out.println("Factorial of "+ n + " is "+ factorial );
-
     }
 }
