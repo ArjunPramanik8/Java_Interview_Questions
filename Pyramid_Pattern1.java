@@ -31,6 +31,7 @@ public class Pyramid_Pattern1
             }
             System.out.println();
             rowcount++;
+            
         }
 
     }
