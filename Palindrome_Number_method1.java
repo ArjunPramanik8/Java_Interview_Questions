@@ -22,6 +22,7 @@ public class Palindrome_Number_method1
         }
         
 
+        
         //System.out.println(temp);
         if (temp==sum)
         {
