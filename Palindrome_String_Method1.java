@@ -15,6 +15,7 @@ public class Palindrome_String_Method1
             rev= rev+ str.charAt(i);
         }
 
+
         
         System.out.println(rev);
 
