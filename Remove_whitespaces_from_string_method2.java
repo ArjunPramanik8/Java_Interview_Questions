@@ -24,7 +24,6 @@ public class Remove_whitespaces_from_string_method2
 
             }
 
-
         }
 
         System.out.println("Input String ="+ str);
