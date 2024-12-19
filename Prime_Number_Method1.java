@@ -10,7 +10,6 @@ public class Prime_Number_Method1
         if (n==0|| n==1)
         {
             System.out.println(n+" is Non Prime Number");
-
         }
         else
         {
