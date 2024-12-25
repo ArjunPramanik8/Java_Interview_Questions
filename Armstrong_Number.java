@@ -17,6 +17,7 @@ public class Armstrong_Number
             digit++;
         }
 
+        
         temp=n;
         while(temp>0)
         {
