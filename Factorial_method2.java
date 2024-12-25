@@ -12,7 +12,7 @@ public class Factorial_Method2
         return f;
     }
 
-    
+
 
     public static void main(String[] args)
     {
