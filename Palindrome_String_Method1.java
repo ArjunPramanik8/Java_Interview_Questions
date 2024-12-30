@@ -16,7 +16,6 @@ public class Palindrome_String_Method1
         }
         
         System.out.println(rev);
-
         
         if(str.equals(rev))
         {
