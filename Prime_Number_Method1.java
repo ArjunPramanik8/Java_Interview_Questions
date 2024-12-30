@@ -20,6 +20,7 @@ public class Prime_Number_Method1
                     c++;
                 }
             }
+
             
             if (c > 0) 
             {
