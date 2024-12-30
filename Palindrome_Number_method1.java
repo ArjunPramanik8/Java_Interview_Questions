@@ -21,7 +21,6 @@ public class Palindrome_Number_method1
             n=n/10;
         }
         
-
         
         //System.out.println(temp);
         if (temp==sum)
