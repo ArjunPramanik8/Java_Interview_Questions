@@ -19,7 +19,6 @@ public class Prime_Number_Method2
                 if (n % i == 0) {
                     c++;
                 }
-
             }
             if (c>0) {
                 System.out.println(n + " is a Non Prime Number");
