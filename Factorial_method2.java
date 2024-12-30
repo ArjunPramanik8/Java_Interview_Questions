@@ -13,7 +13,6 @@ public class Factorial_Method2
     }
 
 
-    
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);
