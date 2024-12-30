@@ -20,7 +20,7 @@ public class Palindrome_Number_method1
             sum=(sum*10)+r;
             n=n/10;
         }
-        
+    
         
         //System.out.println(temp);
         if (temp==sum)
