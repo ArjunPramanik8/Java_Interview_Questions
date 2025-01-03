@@ -8,7 +8,6 @@ public class Armstrong_Number
     {
         //declaring variables for evaluation of teh armstromg number
         int temp=0,last=0,sum=0,digit=0;
-
         //calculating the number of digits
         temp=n;
         while(n>0)
