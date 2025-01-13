@@ -23,7 +23,7 @@ public class Armstrong_Number
             sum+= (Math.pow(last,digit));
             temp=temp/10;
         }
-
+        
         if (n==sum)
         {
             return true;
