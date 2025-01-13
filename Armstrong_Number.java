@@ -53,6 +53,7 @@ public class Armstrong_Number
         {
             System.out.println("Non Armstrong number");
         }
+        
     }
 }
 
